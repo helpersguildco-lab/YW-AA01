@@ -1,4 +1,4 @@
-# App Audio Assets
+# AAud Assets
 
 This repository contains the audio assets for my anonymous app.
 
